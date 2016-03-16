@@ -1,0 +1,7 @@
+C:\Users\budow\Google Drive\Visual Studio\DorevConsole\DorevConsole\bin\Debug\DorevConsole.exe.config
+C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\bin\Debug\DorevConsole.exe.config
+C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\obj\Debug\DorevConsole.csprojResolveAssemblyReference.cache
+C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\bin\Debug\DorevConsole.exe
+C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\bin\Debug\DorevConsole.pdb
+C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\obj\Debug\DorevConsole.exe
+C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\obj\Debug\DorevConsole.pdb
