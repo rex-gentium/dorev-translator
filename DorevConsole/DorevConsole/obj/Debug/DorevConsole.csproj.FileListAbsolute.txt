@@ -5,3 +5,9 @@ C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\bin\Debug\
 C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\bin\Debug\DorevConsole.pdb
 C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\obj\Debug\DorevConsole.exe
 C:\Users\Carolus\Google Drive\Visual Studio\DorevConsole\DorevConsole\obj\Debug\DorevConsole.pdb
+D:\Documents\GitHub\dorev-translator\DorevConsole\DorevConsole\bin\Debug\DorevConsole.exe.config
+D:\Documents\GitHub\dorev-translator\DorevConsole\DorevConsole\obj\Debug\DorevConsole.exe
+D:\Documents\GitHub\dorev-translator\DorevConsole\DorevConsole\obj\Debug\DorevConsole.pdb
+D:\Documents\GitHub\dorev-translator\DorevConsole\DorevConsole\bin\Debug\DorevConsole.exe
+D:\Documents\GitHub\dorev-translator\DorevConsole\DorevConsole\bin\Debug\DorevConsole.pdb
+D:\Documents\GitHub\dorev-translator\DorevConsole\DorevConsole\obj\Debug\DorevConsole.csprojResolveAssemblyReference.cache

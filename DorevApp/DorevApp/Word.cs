@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DorevConsole
+namespace DorevApp
 {
     class Word
     {
@@ -51,7 +51,7 @@ namespace DorevConsole
             for (int i = 0; i < newWord.Length; i++)
             {
                 if (char.ToLower(newWord[i]) == 'ъ' && Librarian.IsPunctiationSign(newWord[i + 1]))
-                    newWord = newWord.Remove(i, 1);
+                        newWord = newWord.Remove(i, 1);
             }
 
             return new Word(prePunc, newWord, postPunc);

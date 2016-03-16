@@ -1,0 +1,9 @@
+C:\Users\Carolus\Google Drive\Visual Studio\DorevApp\DorevApp\bin\Debug\DorevApp.exe.config
+C:\Users\Carolus\Google Drive\Visual Studio\DorevApp\DorevApp\bin\Debug\DorevApp.exe
+C:\Users\Carolus\Google Drive\Visual Studio\DorevApp\DorevApp\bin\Debug\DorevApp.pdb
+C:\Users\Carolus\Google Drive\Visual Studio\DorevApp\DorevApp\obj\Debug\DorevApp.csprojResolveAssemblyReference.cache
+C:\Users\Carolus\Google Drive\Visual Studio\DorevApp\DorevApp\obj\Debug\DorevApp.Form1.resources
+C:\Users\Carolus\Google Drive\Visual Studio\DorevApp\DorevApp\obj\Debug\DorevApp.Properties.Resources.resources
+C:\Users\Carolus\Google Drive\Visual Studio\DorevApp\DorevApp\obj\Debug\DorevApp.csproj.GenerateResource.Cache
+C:\Users\Carolus\Google Drive\Visual Studio\DorevApp\DorevApp\obj\Debug\DorevApp.exe
+C:\Users\Carolus\Google Drive\Visual Studio\DorevApp\DorevApp\obj\Debug\DorevApp.pdb
